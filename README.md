@@ -1,1 +1,1 @@
-# STM32F746ZG_BoardDev
+# STM32F746ZG_Minimum-System
