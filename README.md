@@ -1,5 +1,5 @@
 # STM32F746ZG_Minimum-System
-There are some embedded features in this minimum system like UART, I2C, CAN Bus, QuadSPI Flash, Ext. SDRAM, SPI for LCD TFT/Oled Support, USB-C and GPIO port
+There are some embedded features in this minimum system like UART, I2C, CAN Bus, QuadSPI Flash, Ext. SDRAM, SPI for LCD TFT/Oled Support, USB-C and GPIO port                                              
 ![WhatsApp Image 2024-07-21 at 20 56 39_34f741bc](https://github.com/user-attachments/assets/0a2e059e-38c8-463a-8ff5-939dd4701ec4)
 
 I'm using KiCadV6+ to design this minimum system. There is some additional component to support some peripheral/bus. You can check the component library folder.
